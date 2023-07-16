@@ -7,8 +7,14 @@ Thermometer has a probe on a long cable allowing it to be put inside harsh condi
 itself. 
 
 Also contains a battery with a charging circuit and a switch. The case is designed and 3D Printed by me.
+## Usage
 
+### To build project
+    pio run
+### To build and upload to device
+    pio run --target upload
 * * *
+
 ## Picture of the thermometer assembled
 ![thermometer](img/thermometer.webp)
 
@@ -17,5 +23,3 @@ Also contains a battery with a charging circuit and a switch. The case is design
 ![thermometer open](img/thermometer2.webp)
 
 * * *
-
-## Usage
